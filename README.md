@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Python, MQL5, Java, Kivy and Javascript</strong>
+  🦄 Languages: <strong>Python, SQL, MQL5, Java, Kivy and Javascript</strong>
 </p>
 
 
