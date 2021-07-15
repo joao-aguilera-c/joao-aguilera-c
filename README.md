@@ -1,4 +1,4 @@
-<img src="https://scontent.fsdu13-1.fna.fbcdn.net/v/t1.6435-9/172905410_10159793910579048_6394878766971258408_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeG-5NTURv3b82MGzuqepmABx66jZTd3oKrHrqNlN3egqnGPss0q6GhPjuX-Veq0WLs&_nc_ohc=6KiqPYRrGlUAX-dPK_C&_nc_ht=scontent.fsdu13-1.fna&oh=d5c7a6b590dae01b4aa140d96ef3bc49&oe=60DF41DD" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://scontent.fsdu13-1.fna.fbcdn.net/v/t1.6435-9/172905410_10159793910579048_6394878766971258408_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeG-5NTURv3b82MGzuqepmABx66jZTd3oKrHrqNlN3egqnGPss0q6GhPjuX-Veq0WLs&_nc_ohc=UzJe0vYuKBEAX-aIVe5&_nc_ht=scontent.fsdu13-1.fna&oh=e3030b68acfaeb2a578304a2208d4623&oe=60F5029D" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   João is an Audio Engineer from Rio de Janeiro. He is the founder of <strong>O//QUARTO Records</strong> (@oquartorecords) a Music Production Company and Studio. 
