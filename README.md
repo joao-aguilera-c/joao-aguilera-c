@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/68448759/125953891-a5f5d702-d327-43f3-86b1-2ea6ff317b95.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/68448759/125955294-520c2885-74a7-4b8d-9421-38fad1032690.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   João is an Audio Engineer from Rio de Janeiro. He is the founder of <strong>O//QUARTO Records</strong> (@oquartorecords) a Music Production Company and Studio. 
