@@ -4,7 +4,7 @@
   João is an Audio Engineer from Rio de Janeiro. He is the founder of <strong>O//QUARTO Records</strong> (@oquartorecords) a Music Production Company and Studio. 
   He started to produce music with 14 years old. While he graduated as <strong>Mechanical Engineer</strong> at one of the most prestigious university of <strong>Rio de Janeiro </strong>
   he decided to live in <strong>London</strong> for a year, where he deepened in Waves Physics and Innovation and Enterprise at London South Bank University. 
-  Now at age of 29 he find a new love for <strong>programming</strong>, his goals in this area are to make a <strong>crypto trading algo</strong> and work as a <strong>data scientist</strong> for the industry as soon as possible!
+  Now at age of 29 he dedicates himself to an old love for <strong>programming</strong>, his goals in this area are to make a <strong>profitablem crypto trading algo</strong> and find challenging jobs in <strong>Data Science</strong>!
 </p>
 
 <p align="left">
