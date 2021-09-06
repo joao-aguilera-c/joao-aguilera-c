@@ -3,7 +3,7 @@
   He graduated as <strong>Mechanical Engineer</strong> at one of the most prestigious university of <strong>Rio de Janeiro </strong>
   and lived in <strong>London</strong> for a year, where he deepened in Innovation and Enterprise at London South Bank University. 
   Now at age of 29 he dedicates himself to an old love for <strong>programming</strong>, during the past two years he created a <strong>profitable crypto trading algo</strong>, is   studying data science on <a href="https://exame.com/pme/o-segredo-desta-startup-para-capacitar-profissionais-em-falta-no-mercado/">Awari</a> and is doing
-  <a href="https://nbviewer.jupyter.org/github/joao-aguilera-c/ANALISE-FUNDOS-DE-INVESTIMENTOS/blob/main/ETL%20de%20dados%20de%20Fundos%20de%20Investimentos%20Brasileiros.ipynb">ETL</a> projects and <a href="https://www.linkedin.com/pulse/an%25C3%25A1lise-de-desempenho-fundos-investimento-brasileiros-jo%25C3%25A3o-aguilera">data analysis cases</a> for his portfolio here on GitHub! All he wants is to be part of the wonderful world of <strong>Data Science</strong>!
+  <a href="https://nbviewer.jupyter.org/github/joao-aguilera-c/ANALISE-FUNDOS-DE-INVESTIMENTOS/blob/main/ETL%20de%20dados%20de%20Fundos%20de%20Investimentos%20Brasileiros.ipynb">ETL projects</a> and <a href="https://www.linkedin.com/pulse/an%25C3%25A1lise-de-desempenho-fundos-investimento-brasileiros-jo%25C3%25A3o-aguilera">data analysis cases</a> for his portfolio here on GitHub! All he wants is to be part of the wonderful world of <strong>Data Science</strong>!
 </p>
 
 <p align="left">
