@@ -32,3 +32,10 @@
   <a href="mailto:manutencao.contas@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:manutencao.contas@gmail.com" /></a>  
 </p>  
+
+### Portfolio
+
+* [Extração e Análise de Dados de Fundos de Investimentos Brasileiros](https://github.com/joao-aguilera-c/ANALISE-FUNDOS-DE-INVESTIMENTOS) (ETL,
+Criação de KPI, Visualização de Dados, Reports)
+
+* [Sistema Automatizado para Trading de Cripto Ativos](https://github.com/joao-aguilera-c/Binance-Algo-Trading-Bot)
