@@ -35,7 +35,7 @@
 
 ### Portfolio
 
-* [Extração e Análise de Dados de Fundos de Investimentos Brasileiros](https://github.com/joao-aguilera-c/ANALISE-FUNDOS-DE-INVESTIMENTOS) (ETL,
+* [Extração e Análise de Dados de Fundos de Investimentos Brasileiros](https://github.com/joao-aguilera-c/Analise-Fundos-de-Investimento) (ETL,
 Criação de KPI, Visualização de Dados, Reports)
 
 * [Sistema Automatizado para Trading de Cripto Ativos](https://github.com/joao-aguilera-c/Binance-Algo-Trading-Bot)
