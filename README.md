@@ -43,3 +43,5 @@ Criação de KPI, Visualização de Dados, Reports)
 * [Dashboard de Logística: Olist](https://github.com/joao-aguilera-c/Olist-Dashboard-Logistica)
 
 * [Modelo Preditivo: Risco de Crédito](https://github.com/joao-aguilera-c/Modelo-Risco-de-Credito)
+
+* [Kubernetes, Estudo de Caso](https://github.com/joao-aguilera-c/Kubernetes-estudo-de-caso)
