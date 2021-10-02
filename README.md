@@ -39,3 +39,5 @@
 Criação de KPI, Visualização de Dados, Reports)
 
 * [Sistema Automatizado para Trading de Cripto Ativos](https://github.com/joao-aguilera-c/Binance-Algo-Trading-Bot)
+
+* [Dashboard de Logística: Olist](https://github.com/joao-aguilera-c/Olist-Dashboard-Logistica)
