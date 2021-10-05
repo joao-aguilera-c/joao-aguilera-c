@@ -7,7 +7,12 @@
 </p>
 
 <p align="left">
-  💻 Languages: <strong>Python, SQL, MQL5, VBA, Javascript and Kivy</strong>
+  💻 Languages: <strong>Python, SQL, MQL5, VBA, Javascript and Kivy</strong>  
+</p>
+
+
+<p align="left">
+  💻 Frameworks: <strong>Google Cloud Services, Kubernetes, Jupyter Notebooks and Kubeflow</strong>  
 </p>
 
 
