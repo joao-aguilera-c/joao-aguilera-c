@@ -49,4 +49,4 @@ Criação de KPI, Visualização de Dados, Reports)
 
 * [Modelo Preditivo: Risco de Crédito](https://github.com/joao-aguilera-c/Modelo-Risco-de-Credito)
 
-* [Kubernetes, Estudo de Caso](https://github.com/joao-aguilera-c/Kubernetes-estudo-de-caso)
+* [Kubernetes, Estudo de Caso](https://github.com/joao-aguilera-c/Kubernetes-lista-de-tarefas-Google-Cloud)
