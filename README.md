@@ -28,8 +28,6 @@
   <a href="https://wa.me/+5521990448584" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5521990448584"/></a>
 
-  <a href="hthttps://www.facebook.com/ojoao.aguilera" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Jokacardoso"/></a>
 
   <a href="https://www.instagram.com/_joao_aguilera/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ojoao.aguilera/"/></a>
