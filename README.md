@@ -1,5 +1,5 @@
 <p align="left"> 
-  João is a <strong>Data Scientist</strong> from Rio de Janeiro. He is the founder of <strong>O//QUARTO Records</strong> (@oquartorecords) a Music Production Company and Studio. 
+  João is a <strong>Data Engineer</strong> from Rio de Janeiro. He is the founder of <strong>O//QUARTO Records</strong> (@oquartorecords) a Music Production Company and Studio. 
   He graduated as <strong>Mechanical Engineer</strong> at one of the most prestigious university of <strong>Rio de Janeiro </strong>
   and lived in <strong>London</strong> for a year, where he deepened in Innovation and Enterprise at London South Bank University. 
   Now at age of 29 he dedicates himself to an old love for <strong>programming</strong>, during the past two years he created a <strong>profitable crypto trading algo</strong>, is   studying data science on <a href="https://exame.com/pme/o-segredo-desta-startup-para-capacitar-profissionais-em-falta-no-mercado/">Awari</a> and is doing
